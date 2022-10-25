@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Índice
+
+## Diferentes niveles de encabezado
+  ### Tamaño 1
+  #### Tamaño 2
+  ##### Tamaño 3
+
+## Diferente tipografía
+  **Texto en negrita**
+  <br>*Texto en cursiva*
+  <br>~~Texto tachado~~
+
+
+## Listas con orden
+
+-Listas sin orden
+
+-Código (java por ejemplo)
+
+-Enlaces (a webs externas y a lugares del mismo doc)
+
+- Imágenes (externas e internas)
+
+-Tablas
+
+-Lista con checks
+
+Subir una memoria con un enlace al repositorio y con capturas del documento generado.
+
