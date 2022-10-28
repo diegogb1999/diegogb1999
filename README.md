@@ -69,15 +69,22 @@ Here are some ideas to get you started:
 	}
 
 ## Enlaces (a webs externas y a lugares del mismo doc)
-Pagina oficial de [GitHub](https://github.com/)
-<br>[Indice](https://github.com/diegogb1999/diegogb1999/edit/main/README.md#%C3%ADndice)</li>
+Web externa: Pagina oficial de [GitHub](https://github.com/)
+<br>Lugar del mismo doc: [Indice](https://github.com/diegogb1999/diegogb1999/edit/main/README.md#%C3%ADndice)
 
 ## Imágenes (externas e internas)
-![Imagen externa](https://i.blogs.es/53044d/java/1366_521.jpg)
+Imagen interna:
+![Imagen interna](https://i.blogs.es/53044d/java/1366_521.jpg)
+[Imagen externa](https://i.blogs.es/4b8194/html5/1366_521.jpg)
 
--Tablas
 
--Lista con checks
+## Tablas
+| Nombre | Edad |
+| --- | --- |
+| Carlos  | 20  |
+| David  | 27   |
 
-Subir una memoria con un enlace al repositorio y con capturas del documento generado.
+## Lista con checks
+- [x] Hacer un indice
+- [ ] Aprender C++
 
