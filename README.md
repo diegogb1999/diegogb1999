@@ -58,7 +58,7 @@
 <h2 align="center" style="color:#F7D300FF;font-size: 27px;"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F669588149042937907.gif%3Fv%3D1&w=64&q=75" width="25" style="vertical-align: middle;">&nbsp;<b>Some Statistics About Me</b></h2>
 
 <div align="center" style="display: flex; align-items: stretch; justify-content: center; ">
-<p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogb1999&theme=radical" style="width: auto; height: 200px;"/></p>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogb199&theme=radical" style="width: auto; height: 200px;"/></p>&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=diegogb1999&&theme=radical" style="width: auto; height: 200px;"/></p> </div>
 
 <br>
