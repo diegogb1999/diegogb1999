@@ -15,7 +15,7 @@
     <h3 align ="center" style="color:#A9FEF7;"><strong>Programming languages</strong>:</p>
 <p align ="center">
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"><br>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white" alt="SourceTree">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="VisualStudio"><br>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="VisualStudio">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white" alt="Android Studio">
     <h3 align ="center" style="color:#A9FEF7;"><strong>Other</strong>:</p>
