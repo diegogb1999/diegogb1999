@@ -20,13 +20,13 @@
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
 
-</p><br>
+</p>
     <h3 align ="center" style="color:#A9FEF7;"><strong>Frameworks and Libraries</strong>:</p>
 <p align ="center">
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"><br>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" alt="ThreeJS">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></p><br>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></p>
     <h3 align ="center" style="color:#A9FEF7;"><strong>Engines</strong>:</p>
 <p align ="center">
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity"></p> </div>
@@ -36,15 +36,15 @@
     <h3 align ="center" style="color:#A9FEF7;"><strong>Databases and Cloud hosting</strong>:</p>
 <p align ="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase"></p> <br>
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase"></p>
     <h3 align ="center" style="color:#A9FEF7;"><strong>Software and Tools</strong>:</p>
 <p align ="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white" alt="SourceTree"><br>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white" alt="SourceTree">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="VisualStudio"><br>
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white" alt="Android Studio"><br><br>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white" alt="Android Studio">
     <h3 align ="center" style="color:#A9FEF7;"><strong>Other</strong>:</p>
 <p align ="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira">
@@ -61,7 +61,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogb1999&theme=radical)](https://github.com/diegogb1999)
 
-<br>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=diegogb1999&theme=radical)](https://github.com/diegogb1999)
 
