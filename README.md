@@ -11,9 +11,6 @@
 <div style="display: flex;justify-content: center;">
 
   
- <div style="display: flex;justify-content: center;">
-
-  
   <div style="width: 30%; padding-right: 1em;text-align: center;">
     <h3 align ="center" style="color:#A9FEF7;"><strong>Programming languages</strong>:</p>
 <p align ="center">
@@ -57,9 +54,6 @@
 </div>
 
 
-
-
-
 <br>
 <h2 align="center" style="color:#F7D300FF;font-size: 27px;"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F669588149042937907.gif%3Fv%3D1&w=64&q=75" width="25" style="vertical-align: middle;">&nbsp;<b>Some Statistics About Me</b></h2>
 
@@ -67,6 +61,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogb1999&theme=radical)](https://github.com/diegogb1999)
 
+<br>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=diegogb1999&theme=radical)](https://github.com/diegogb1999)
 
@@ -83,4 +78,3 @@
 [![ForgottenTyrants Repo](https://github-readme-stats.vercel.app/api/pin/?username=Abyss-Forge&repo=ForgottenTyrants&theme=radical)](https://github.com/Abyss-Forge/ForgottenTyrants.git)
 
 </div>
-
