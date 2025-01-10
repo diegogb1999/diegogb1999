@@ -65,9 +65,9 @@
 <h2 align="center" style="color:#F7D300FF;font-size: 27px;"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F1001411643143639152.gif%3Fv%3D1&w=64&q=75" width="20">&nbsp;
 <b>Starred projects</b></h2>
 
-  <div align="center"><a style="outline: none; text-decoration: none; border: none;" href="https://github.com/diegogb1999/Pixel-React.git">
+
   [![Pixel-React Repo](https://github-readme-stats.vercel.app/api/pin/?username=diegogb1999&repo=Pixel-React&theme=radical)](https://github.com/diegogb1999/Pixel-React.git)
 <a style="outline: none; text-decoration: none; border: none;" href="https://github.com/Abyss-Forge/ForgottenTyrants.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abyss-Forge&repo=ForgottenTyrants&theme=radical" />
-</a></div>
+</a>
 
