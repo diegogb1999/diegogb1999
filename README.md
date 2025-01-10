@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegogb1999&label=Profile%20views&color=blueviolet&style=flat" alt="scar1109" /></p>
 
 <br>
-<h2 align = "center"><img src="./QssGEmpkyEOhBCb7e1.webp" width="25"><b> Skills</b></h2>
+<h2 align = "center"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F863025083303460924.gif%3Fv%3D1&w=64&q=75" width="25"><b> Skills</b></h2>
 
 
 <div style="display: flex;justify-content: center;">
