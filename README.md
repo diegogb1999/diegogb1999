@@ -66,8 +66,7 @@
 <b>Starred projects</b></h2>
 
   <div align="center"><a style="outline: none; text-decoration: none; border: none;" href="https://github.com/diegogb1999/Pixel-React.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogb1999&repo=Pixel-React&theme=radical" />
-</a>&nbsp;&nbsp;
+  [![Pixel-React Repo](https://github-readme-stats.vercel.app/api/pin/?username=diegogb1999&repo=Pixel-React&theme=radical)](https://github.com/diegogb1999/Pixel-React.git)
 <a style="outline: none; text-decoration: none; border: none;" href="https://github.com/Abyss-Forge/ForgottenTyrants.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abyss-Forge&repo=ForgottenTyrants&theme=radical" />
 </a></div>
