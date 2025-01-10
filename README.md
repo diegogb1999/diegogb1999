@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegogb1999&label=Profile%20views&color=blueviolet&style=flat" alt="scar1109" /></p>
 
 <br>
-<h2 align = "center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
+<h2 align = "center"><img src="./QssGEmpkyEOhBCb7e1.webp" width="25"><b> Skills</b></h2>
 
 
 <div style="display: flex;justify-content: center;">
