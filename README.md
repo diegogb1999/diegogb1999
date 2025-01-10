@@ -10,8 +10,8 @@
 
 <div>
   <p style="display: inline-block;" align="center">
-    <kbd style="padding: 40px; font-size: 20px;">
-      <kbd>Programming Languages</kbd>
+    <kbd>
+      <b>Programming Languages</b>
       <br>
       <br>
       <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#">
@@ -29,13 +29,14 @@
       <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" alt="ThreeJS">
       <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     </kbd>
-    <kbd style="padding: 40px; font-size: 20px;">
+    <br>
+    <kbd>
       <kbd>Engines</kbd>
       <br>
       <br>
       <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity">
     </kbd>
-    <kbd style="padding: 20px; font-size: 24px;">
+    <kbd>
       <kbd>Databases and Cloud Hosting</kbd>
       <br>
       <br>
@@ -44,7 +45,7 @@
     </kbd>
     <br>
       <br>
-    <kbd style="padding: 20px; font-size: 24px;">
+    <kbd>
       <kbd>Software and Tools</kbd>
       <br>
       <br>
@@ -55,7 +56,7 @@
       <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse">
       <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=white" alt="Android Studio">
     </kbd>
-    <kbd style="padding: 20px; font-size: 16px;">
+    <kbd>
       <kbd>Other</kbd>
       <br>
       <br>
@@ -67,7 +68,6 @@
 
 
 
-
 <br>
 <h2 align="center" style="color:#F7D300FF;font-size: 27px;"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F669588149042937907.gif%3Fv%3D1&w=64&q=75" width="25" style="vertical-align: middle;">&nbsp;<b>Some Statistics About Me</b></h2>
 
@@ -75,7 +75,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogb1999&theme=radical)](https://github.com/diegogb1999)
 
-<br>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=diegogb1999&theme=radical)](https://github.com/diegogb1999)
 
