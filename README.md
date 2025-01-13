@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegogb1999&label=Profile%20views&color=blueviolet&style=flat" alt="scar1109" /></p>
 
 <br>
-<h2 align = "center"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F863025083303460924.gif%3Fv%3D1&w=64&q=75" width="25"><b> Skills</b></h2>
+<h2 align = "center"><img src="https://github.com/diegogb1999/diegogb1999/blob/main/code.gif?raw=true" width="25"><b> Skills</b></h2>
 
 
 <div style="display: flex;justify-content: center;">
@@ -55,7 +55,7 @@
 
 
 <br>
-<h2 align="center" style="font-size: 27px;"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F669588149042937907.gif%3Fv%3D1&w=64&q=75" width="25" style="vertical-align: middle;">&nbsp;<b>Some Statistics About Me</b></h2>
+<h2 align="center" style="font-size: 27px;"><img src="./stats.gif" width="25" style="vertical-align: middle;">&nbsp;<b>Some Statistics About Me</b></h2>
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 </div>
 
 <br>
-<h2 align="center" style="font-size: 27px;"><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F1001411643143639152.gif%3Fv%3D1&w=64&q=75" width="20">&nbsp;
+<h2 align="center" style="font-size: 27px;"><img src="https://github.com/diegogb1999/diegogb1999/blob/main/crown_red_star.gif?raw=true" width="20">&nbsp;
 <b>Starred projects</b></h2>
 
 <div align="center">
